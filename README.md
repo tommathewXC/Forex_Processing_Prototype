@@ -1,5 +1,5 @@
 # Forex_Processing_Prototype
-A prototype library to pull Foreign Currency exchange rates from Gain Capital's pubic records
+A prototype library to pull Foreign Currency exchange rates from Gain Capital's public records
 
 This library is a prototype of a better concept (that will be released soon-ish), that can do the followin things:
 
